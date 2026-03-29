@@ -1,2 +1,2 @@
-# Brazil-education-data-analysis
-Exploratory Data Analysis of educational data in Brazil, leveraging Python and IBGE datasets to uncover patterns and insights.
+# Analise-escolaridade-brasil
+Análise exploratória de dados educacionais do Brasil utilizando Python e dados do IBGE.
