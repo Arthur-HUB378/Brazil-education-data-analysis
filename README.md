@@ -112,13 +112,13 @@ A análise foi realizada por meio de agrupamentos e visualizações, incluindo:
 
 ## 📊 Visualizações
 
-![Escolaridade por Raça/Cor](Imagens/Grafico1.png)
+![Escolaridade por Raça/Cor](C:\Users\ArtZ\Projetos\Imagens\Grafico1.png)
 
-![Escolaridade por Sexo](Imagens/Grafico2.png)
+![Escolaridade por Sexo](C:\Users\ArtZ\Projetos\Imagens\Grafico2.png)
 
-![Escolaridade por Região](Imagens/Grafico3.png)
+![Escolaridade por Região](C:\Users\ArtZ\Projetos\Imagens\Grafico3.png)
 
-![Escolaridade entre jovens](Imagens/Grafico4.png)
+![Escolaridade entre jovens](C:\Users\ArtZ\Projetos\Imagens\Grafico4.png)
 
 ---
 
