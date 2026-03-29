@@ -112,11 +112,7 @@ A análise foi realizada por meio de agrupamentos e visualizações, incluindo:
 
 ## 📊 Visualizações
 
-*(Adicione aqui imagens dos gráficos gerados no projeto)*
-
-Exemplo:
-
-![Escolaridade por Região](images/grafico_regiao.png)
+![Escolaridade por Região](Imagens/Gráfico 1.png)
 
 ---
 
