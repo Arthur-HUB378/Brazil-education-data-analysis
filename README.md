@@ -112,7 +112,13 @@ A análise foi realizada por meio de agrupamentos e visualizações, incluindo:
 
 ## 📊 Visualizações
 
-![Escolaridade por Região](Imagens/Gráfico 1.png)
+![Escolaridade por Raça/Cor](Imagens/Grafico1.png)
+
+![Escolaridade por Sexo](Imagens/Grafico2.png)
+
+![Escolaridade por Região](Imagens/Grafico3.png)
+
+![Escolaridade entre jovens](Imagens/Grafico4.png)
 
 ---
 
@@ -120,4 +126,4 @@ A análise foi realizada por meio de agrupamentos e visualizações, incluindo:
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Arthur-HUB378/Brazil-education-data-analysis.git
